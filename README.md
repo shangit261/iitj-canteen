@@ -38,8 +38,9 @@ ___
 |[Samarth Potdar](https://github.com/samarth-1729)|Freshman|Electrical Engineering|
 |[Pawandeep Suryavanshi](https://github.com/PawanSuryavanshi95)|Freshman|Electrical Engineering|
 |[Sanjukta Bhattacharya](https://github.com/bsanjukta235)|Freshman|Bio Engineering|
+|[shantanu bakshi](https://github.com/shangit261)|Freshman|Computer Science and Engineering|
 
-##### Steps to join
+### Steps to join
 
  1. Star this repo.
  2. Push a PR in this README, adding your details in the above table.
